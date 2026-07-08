@@ -3,7 +3,9 @@
 A fast, collaborative task and project management app — built for individuals and small teams who want clarity without clutter.
 
 🔗 **Live app:** [https://troubler-s-fix.vercel.app/login]
-🔒 This repository is private. This README exists to give visitors context on the project via the live link.
+
+
+🔒 This repository is private. This exists to give visitors context on the project via the live link.
 
 ---
 
