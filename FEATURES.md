@@ -9,6 +9,6 @@
 - ✅ Notifications for task & project activity
 - ✅ Third-party integrations (extensible)
 - ✅ Fully mobile-responsive design
-- ✅ Custom visual identity — Inter font, signal red (#DB4035), 150ms micro-transitions
+- ✅ Custom visual identity — Inter font, signal red, 150ms micro-transitions
 
 Built with React, Vite, TypeScript, Tailwind, and Supabase. Deployed on Vercel.
