@@ -9,7 +9,7 @@ Flowo is a fast, collaborative task management app built with React, Vite, and S
 
 Flowo is a modern task and project management application designed for individuals and small teams who want the speed of a lightweight tool without sacrificing the structure of a full project management suite. Built on a React + Vite frontend with a Supabase backend, Flowo focuses on doing the essentials — tasks, projects, and collaboration — exceptionally well, rather than trying to be everything at once.
 
-The design language draws inspiration from Todoist's approachability and Linear.app's precision: a warm signal red (#DB4035) accent color, Inter typography, subtle shadows, and fast 150ms transitions that make every interaction feel immediate. The interface is fully mobile-responsive, so task management doesn't stop at the desktop.
+The design language draws inspiration from Todoist's approachability and Linear.app's precision: a warm signal red accent color, Inter typography, subtle shadows, and fast 150ms transitions that make every interaction feel immediate. The interface is fully mobile-responsive, so task management doesn't stop at the desktop.
 
 Under the hood, Flowo uses Supabase Realtime to keep task boards, comments, and project updates in sync across every connected device instantly — no refresh required. For teams, this means everyone is always looking at the current state of the board, whether they're updating a task from a laptop or checking progress from a phone.
 
