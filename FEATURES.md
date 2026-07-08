@@ -10,6 +10,5 @@
 - ✅ Third-party integrations (extensible)
 - ✅ Fully mobile-responsive design
 - ✅ Custom visual identity — Inter font, signal red (#DB4035), 150ms micro-transitions
-- 🚧 Not included (by design): billing, live cursors, table/Gantt views, templates, SSO, offline/PWA
 
 Built with React, Vite, TypeScript, Tailwind, and Supabase. Deployed on Vercel.
