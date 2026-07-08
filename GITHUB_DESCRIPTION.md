@@ -1,9 +1,5 @@
 # Flowo — Project Description
 
-> Note: GitHub's "About" description field on a repo page has a ~350-character limit, not word limit.
-> Use the **Short About Blurb** below for that field, and this longer 350-word version for your
-> README intro, portfolio, LinkedIn post, or anywhere a fuller pitch is useful.
-
 ## Short About Blurb (for GitHub's "About" field)
 Flowo is a fast, collaborative task management app built with React, Vite, and Supabase — inspired by the clarity of Todoist and the polish of Linear. Live demo linked below.
 
